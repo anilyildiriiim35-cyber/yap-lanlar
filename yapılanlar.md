@@ -48,3 +48,7 @@
 -Çalışan
 -Gün sonu index sayfası eklendi.
 -Gün sonu tasarımı yapay zekadan yardım alarak oluşturuldu.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+31.03.2026
+-GİTHUB PROJE SİLME NASIL YAPILIR.
+-GİTHUB PROJE GÜNCELLEME.
