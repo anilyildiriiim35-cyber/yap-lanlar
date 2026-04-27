@@ -61,7 +61,7 @@
 - Dinamik menü güncelleme sistemi  
 - Panel tabanlı içerik yönetimi  
 - Stok kontrol mantığı  
- 
+  
 
 ---
 
